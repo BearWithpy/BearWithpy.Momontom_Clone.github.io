@@ -37,6 +37,7 @@ body{
     }
 }
 .js-weather{
+    color: white;
     font-size: large;
     font-family: consolas;
 }
